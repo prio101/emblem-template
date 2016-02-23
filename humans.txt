@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Prio> -- <Developer> -- <prio_mahabub>
 
 # THANKS
 
-    <name>
+    <Allah> For keeping me alive
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    CSS3, HTML5 , bootstrap , sass , gulp , bower ,
+    jQuery, Modernizr, Normalize.css

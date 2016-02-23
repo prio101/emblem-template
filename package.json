@@ -1,0 +1,32 @@
+{
+  "name": "emblem-template",
+  "version": "1.0.0",
+  "description": "Emblem Template",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-sass": "^2.2.0",
+    "imagemin-pngquant": "^4.2.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jade": "^1.1.0"
+  },
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prio101/emblem-template.git"
+  },
+  "keywords": [
+    "Html5",
+    "template"
+  ],
+  "author": "Mahabub Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prio101/emblem-template/issues"
+  },
+  "homepage": "https://github.com/prio101/emblem-template#readme"
+}
