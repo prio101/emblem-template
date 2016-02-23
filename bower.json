@@ -1,0 +1,30 @@
+{
+  "name": "emblem-template",
+  "authors": [
+    "prio101 <miprio101@gmail.com>"
+  ],
+  "description": "Html5 Template For the Emblem",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Template",
+    "Emblem"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/prio101",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.1",
+    "html5-boilerplate": "^5.3.0",
+    "hover": "^2.0.2",
+    "bootstrap-sass": "^3.3.6"
+  }
+}
